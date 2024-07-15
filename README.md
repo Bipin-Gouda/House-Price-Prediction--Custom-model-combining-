@@ -35,11 +35,6 @@ To get started with this project, follow the steps below:
     cd House-Price-Prediction--Custom-model-combining
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 To use the code in this repository, follow the steps below:
 
